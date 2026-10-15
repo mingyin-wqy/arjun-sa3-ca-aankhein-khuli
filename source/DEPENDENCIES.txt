@@ -1,0 +1,4 @@
+REFramework API: https://github.com/praydog/REFramework/tree/a0e9010/include/reframework
+Dear ImGui: https://github.com/ocornut/imgui/tree/85b2fe8486190fa9326565a2fb5fccb6caea4396
+Local imconfig.h enables IMGUI_USE_WCHAR32 to match host UI ABI; host keeps its existing font loader.
+JSON: https://github.com/nlohmann/json/tree/v3.11.3
